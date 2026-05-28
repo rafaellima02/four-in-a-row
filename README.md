@@ -99,7 +99,7 @@ Com isso, o projeto combina lógica, estratégia, design e programação em uma 
 * TypeScript
 * HTML
 * CSS
-* Svelt
+* Svelte
 * Figma
 
 ---

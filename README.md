@@ -108,4 +108,4 @@ Com isso, o projeto combina lógica, estratégia, design e programação em uma 
 
 Projeto acadêmico desenvolvido por estudantes do curso de **Tecnologia em Sistemas para Internet (TSI)** — IFPE.
 
-Alunos: Rafael Lima, Daniel Henrique, João Ibson e Caio Santana
+Alunos: Rafael Lima, Daniel Henrique, João Ibson, Guilherme Santos e Caio Santana
